@@ -19,8 +19,3 @@ Este projeto demonstra uma integração entre o Crisp Chat e chatbase, onde mens
 2. Conta no Crisp com token de API.
 3. API funcional do CHATBASE.
 
-## Instalação
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/babiaraujo/crisp-poc.git
-   cd crisp-poc
