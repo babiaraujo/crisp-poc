@@ -2,9 +2,9 @@ require('dotenv').config();
 
 module.exports = {
   port: process.env.PORT || 3000,
-  jarvis: {
-    apiUrl: process.env.JARVIS_API_URL,
-    apiKey: process.env.JARVIS_API_KEY,
+  CHATBASE: {
+    apiUrl: process.env.CHATBASE_API_URL,
+    apiKey: process.env.CHATBASE_API_KEY,
   },
   crisp: {
     websiteId: process.env.CRISP_WEBSITE_ID,
