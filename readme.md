@@ -1,4 +1,4 @@
-# Integração Crisp com IA (Jarvis)
+# Integração Crisp com Chatbase
 
 ## Descrição
 Este projeto demonstra uma integração entre o Crisp Chat e chatbase, onde mensagens recebidas no Crisp são processadas pela IA e respondidas automaticamente.
